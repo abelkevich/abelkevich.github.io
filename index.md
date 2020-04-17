@@ -17,7 +17,7 @@ layout: default
 * [C/C++](./cpp_links)
 * [алгоритмы и структуры](./algo)
 * [инструменты](./utils)
-<br/>
+<br/><br/>
 
 ### В сетях
 * Поболтать со мной можно в [телеге](http://t.me/a_belkevich) или [фейсбуке](https://www.facebook.com/abelkevich)
